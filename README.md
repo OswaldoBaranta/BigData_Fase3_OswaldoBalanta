@@ -68,4 +68,4 @@ El paquete `spark-sql-kafka-0-10_2.12` debe coincidir con la versión de Spark i
 
 ## Autores
 
-[Nombres de los integrantes del grupo]
+Oswaldo Balanta
